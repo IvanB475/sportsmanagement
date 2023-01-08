@@ -28,7 +28,7 @@ $ npm run start:prod
 Current version has no test coverage
 
 Note:
-- Comments&rating endpoints are missing
+- Comment&rating functionality are missing
 - docker compose is missing
 
 ## This is demonstrative app that is not production ready and therefore should not be used in production
