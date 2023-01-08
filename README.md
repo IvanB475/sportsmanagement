@@ -37,6 +37,7 @@ Notes:
 - A lot of edge cases aren't covered in current version (E.G. searching for sport class with ID that doesnt exist in db won't return an error, but instead return an empty response) 
 - Validation schemas exist just for demonstration purposes, they do not cover all endpoints and they are very basic
 - Error handling is very basic
+- Types (return types, dtos...)
 - Logger should be added
 - documentation is incomplete
 - Endpoints are basic and serve only to demonstrate functionality
