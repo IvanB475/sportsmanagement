@@ -27,7 +27,8 @@ $ npm run start:prod
 
 Current version has no test coverage
 
-Note:
+Notes:
+- The mix of DB communications in service and in DAL(data access layer) are on purpose and are meant to demonstrate different approaches.
 - Comment&rating functionality are missing
 - docker compose is missing
 
