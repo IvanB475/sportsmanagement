@@ -61,7 +61,7 @@ export class SportClassController {
     }
 
     //API is set up for demonstrative purposes, currently supports updating description only
-    //TODO: add support to edit any editable property of sport class
+    //TODO: add support to edit dates, times etc...
     @Patch(':id')
     private async editClass(@Param('id') classId: number, @Body('description') description: string) {
         try {
